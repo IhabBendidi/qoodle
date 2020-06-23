@@ -46,11 +46,11 @@ sudo crontab -e
 35 2 * * 1 /bin/systemctl reload nginx
 ```
 
-- Configure Freeswitch for using SSL using the steps (here)[https://docs.bigbluebutton.org/2.2/install.html#configure-freeswitch-for-using-ssl].
+- Configure Freeswitch for using SSL using the steps [here](https://docs.bigbluebutton.org/2.2/install.html#configure-freeswitch-for-using-ssl).
 
-- Configure BigBlueButton to load session via HTTPS using the steps (here)[https://docs.bigbluebutton.org/2.2/install.html#configure-bigbluebutton-to-load-session-via-https].
+- Configure BigBlueButton to load session via HTTPS using the steps [here](https://docs.bigbluebutton.org/2.2/install.html#configure-bigbluebutton-to-load-session-via-https).
 
-- Test your https configuration using the steps (here)[https://docs.bigbluebutton.org/2.2/install.html#test-your-https-configuration].
+- Test your https configuration using the steps [here](https://docs.bigbluebutton.org/2.2/install.html#test-your-https-configuration).
 
 - Run on terminal :
 
